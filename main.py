@@ -6,6 +6,8 @@ Organization: UNIR
 import os
 import sys
 
+# English version of the script
+
 DEFAULT_FILENAME = "words.txt"
 DEFAULT_DUPLICATES = False
 
